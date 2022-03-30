@@ -3,12 +3,12 @@
 - Scared of JS
 
 List of websites I may do things on:
-- lacln.com
-- lmoore.dev
-- llan.au
-- lachl.au
-- lachlan.icu
-- ohh.li
+- https://lacln.com
+- https://lmoore.dev
+- https://llan.au
+- https://lachl.au
+- https://lachlan.icu
+- https://ohh.li
 
 <!---
 lacln/lacln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
