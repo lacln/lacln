@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @lacln
-- 👀 I’m interested in coding (obv) in HTML, CSS, PHP and C#
-- 🌱 I’m currently learning C#/Unity and JS
-- 📫 How to reach me ... lachlan@moore.moe and on my websites: lacln.com moore.moe and lmoore.dev
+- Hi, I’m @lacln, also a human
+- A basic understanding of PHP, Python, C#, Java, HTML/CSS
+- Scared of JS
+
+List of websites I may do things on:
+- lacln.com
+- lmoore.dev
+- llan.au
+- lachl.au
+- lachlan.icu
+- ohh.li
 
 <!---
 lacln/lacln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
