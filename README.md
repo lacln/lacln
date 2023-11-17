@@ -1,13 +1,11 @@
-- Hi, I’m @lacln, also a human
-- A basic understanding of PHP, Python, C#, Java, HTML/CSS
-- Scared of JS
+- Hi, I’m @lacln
+- Scared of all programming languages, though have dabbled with python, C, C#, Java, PHP and some others.
+- Domain collector, (as obvious from below)
 
 List of websites I may do things on:
 - https://lacln.com
-- https://lmoore.dev
-- https://llan.au
+- https://moore.moe
 - https://lachl.au
-- https://lachlan.icu
 - https://ohh.li
 
 <!---
