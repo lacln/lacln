@@ -1,3 +1,4 @@
+(lacln_electrify.png)
 - Hi, I’m @lacln
 - Scared of all programming languages, though have dabbled with python, C, C#, Java, PHP and some others.
 - Domain collector, (as obvious from below)
